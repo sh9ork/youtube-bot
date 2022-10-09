@@ -3,7 +3,7 @@ import os
 import telebot
 import youtube_dl
 
-bot = telebot.TeleBot("5688827702:AAGqcPFCc7xp0PES3B9pruNzTC_zHEf0F8g")
+bot = telebot.TeleBot("23423546:AGVNDUFYGhfshdfbsd")
 
 
 @bot.message_handler(commands=['start'])
